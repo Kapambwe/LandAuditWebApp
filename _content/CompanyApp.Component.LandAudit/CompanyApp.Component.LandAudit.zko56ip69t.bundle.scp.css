@@ -1,0 +1,35 @@
+/* _content/CompanyApp.Component.LandAudit/Pages/Dashboard.razor.rz.scp.css */
+h1[b-blggx1tbku] {
+    color: #333;
+}
+
+.phase-container[b-blggx1tbku] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.phase-item[b-blggx1tbku] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.phase-icon[b-blggx1tbku] {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+}
+
+.phase-name[b-blggx1tbku] {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+}
